@@ -16,6 +16,7 @@
     "clsx": "^2.0.0",
     "lucide-react": "^0.279.0",
     "next": "latest",
+    "next-international": "1.1.2-rc.2",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "tailwind-merge": "^1.14.0",
